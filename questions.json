@@ -1,0 +1,14 @@
+{
+    "1": {
+      "imageId": "image1",
+      "question": "Which animal is there in image?",
+      "answer": "Tiger"
+    },
+    "2": {
+      "imageId": "image2",
+      "question": "How many chidlren are there in image?",
+      "answer": "2"
+    }
+    
+  }
+  
